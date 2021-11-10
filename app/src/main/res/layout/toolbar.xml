@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/left_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/search_users_margin"
+            android:layout_marginTop="@dimen/search_users_margin"
+            android:src="@drawable/ic_baseline_arrow_back_24"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginStart="90dp"
+            android:layout_marginLeft="90dp"
+            android:layout_marginTop="@dimen/search_users_margin"
+            android:fontFamily="@font/poppins"
+            android:gravity="center"
+            android:text="Documents"
+            android:textColor="@color/black"
+            android:textSize="@dimen/heading_textsize_cardview"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/right_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/search_users_margin"
+            android:src="@drawable/ic_baseline_home_24"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="@dimen/search_users_margin"
+            android:layout_alignParentRight="true" />
+
+    </RelativeLayout>
+</RelativeLayout>

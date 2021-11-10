@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ xmlns:tools="http://schemas.android.com/tools"
+ tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_notifications"
+            android:iconTint="@color/blue"
+            android:title="@string/notifications"/>
+        <item
+            android:id="@+id/nav_leaveJob"
+            android:icon="@drawable/ic_leavejob"
+            android:iconTint="@color/blue"
+            android:title="@string/leave_job"/>
+        <item
+            android:id="@+id/nav_ArchiveJob"
+            android:icon="@drawable/ic_archive"
+            android:iconTint="@color/blue"
+            android:title="Archive Job"/>
+        <item
+            android:id="@+id/nav_DeleteJob"
+            android:icon="@drawable/ic_delete"
+            android:iconTint="@color/blue"
+            android:title="@string/delete_job"/>
+
+        <item
+            android:id="@+id/nav_TimeZone"
+            android:icon="@drawable/ic_time_zone"
+            android:iconTint="@color/blue"
+            android:title="@string/time_zone"/>
+        <item
+            android:id="@+id/nav_AccountInfo"
+            android:icon="@drawable/ic_account_info"
+            android:iconTint="@color/blue"
+            android:title="@string/account_info"/>
+
+    </group>
+
+</menu>

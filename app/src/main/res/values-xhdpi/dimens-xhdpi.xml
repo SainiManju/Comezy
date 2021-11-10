@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width">100dp</dimen>
+    <dimen name="height">100dp</dimen>
+    <dimen name="search_users_margin">40dp</dimen>
+    <dimen name="text_size">40dp</dimen>
+    <dimen name="margin_start_left_right">16dp</dimen>
+    <dimen name="subheading_size">20dp</dimen>
+    <dimen name="subheading2_size">24dp</dimen>
+    <dimen name="main_heading">40dp</dimen>
+    <dimen name="subheading_textsize_cardview">22dp</dimen>
+    <dimen name="heading_textsize_cardview">28dp</dimen>
+    <dimen name="text_main">22sp</dimen>
+    <dimen name="center_margin">240dp</dimen>
+
+
+</resources>

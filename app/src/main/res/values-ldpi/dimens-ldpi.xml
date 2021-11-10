@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_users_margin">3.75dp</dimen>
+    <dimen name="text_size">15dp</dimen>
+    <dimen name="margin_start_left_right">8dp</dimen>
+    <dimen name="subheading_size">7.5dp</dimen>
+    <dimen name="subheading2_size">9dp</dimen>
+    <dimen name="main_heading">15dp</dimen>
+    <dimen name="subheading_textsize_cardview">8.25dp</dimen>
+    <dimen name="heading_textsize_cardview">10.5dp</dimen>
+    <dimen name="text_main">8.25sp</dimen>
+    <dimen name="center_margin">90dp</dimen>
+
+
+
+</resources>

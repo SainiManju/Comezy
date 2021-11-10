@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_users_margin">20dp</dimen>
+    <dimen name="text_size">28dp</dimen>
+    <dimen name="margin_start_left_right">8dp</dimen>
+    <dimen name="subheading_size">14dp</dimen>
+    <dimen name="subheading2_size">16dp</dimen>
+    <dimen name="main_heading">28dp</dimen>
+
+</resources>
